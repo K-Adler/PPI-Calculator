@@ -1,5 +1,5 @@
 # PPI-Calculator
-A ArcGIS tool for calculating the PPI vegetation index
+A ArcGIS tool for calculating the Plant Phenology vegetation Index (PPI), developed by Jin H. and Eklundh L. (2014).
 
 A tool for ArcGIS written with python 2.7 in the ArcPy environment.
 The tool computes the vegetation index PPI from various input data from specific known sensors such as
